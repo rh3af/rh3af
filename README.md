@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hemanth C</h1>
 <h3 align="center">A passionate Software Developer from Canada</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/rh3af](https://github.com/rh3af)
+
 - 📫 How to reach me **ram.hemanth3@gmail.com**
+
+- 📄 Know about my experiences [https://rh3af.github.io/Portfolio/](https://rh3af.github.io/Portfolio/)
+
+- ⚡ Fun fact **I have seen Batman V Superman 24 times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/rh3af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rh3af" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hemanth-c-705764273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-c-705764273" height="30" width="40" /></a>
 </p>
 
