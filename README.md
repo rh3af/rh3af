@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **ram.hemanth3@gmail.com**
 
-- 📄 Know about my experiences [https://rh3af.github.io/Portfolio/](https://rh3af.github.io/Portfolio/)
-
 - ⚡ Fun fact **I have seen Batman V Superman 24 times**
 
 <h3 align="left">Connect with me:</h3>
